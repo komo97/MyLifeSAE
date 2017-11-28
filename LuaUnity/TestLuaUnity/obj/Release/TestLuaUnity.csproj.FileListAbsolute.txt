@@ -1,0 +1,5 @@
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\bin\Release\TestLuaUnity.exe
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\bin\Release\TestLuaUnity.pdb
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Release\TestLuaUnity.csprojResolveAssemblyReference.cache
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Release\TestLuaUnity.exe
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Release\TestLuaUnity.pdb

@@ -1,0 +1,10 @@
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\TestLuaUnity\bin\Debug\TestLuaUnity.exe
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\TestLuaUnity\bin\Debug\TestLuaUnity.pdb
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.csprojResolveAssemblyReference.cache
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.exe
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.pdb
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\bin\Debug\TestLuaUnity.exe
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\bin\Debug\TestLuaUnity.pdb
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.csprojResolveAssemblyReference.cache
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.exe
+C:\Users\Fear\Documents\mylife\LuaUnity\TestLuaUnity\obj\Debug\TestLuaUnity.pdb

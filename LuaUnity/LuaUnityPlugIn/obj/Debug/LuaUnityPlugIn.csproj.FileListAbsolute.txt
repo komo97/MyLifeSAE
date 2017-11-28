@@ -1,0 +1,10 @@
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.csprojResolveAssemblyReference.cache
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\LuaUnityPlugIn\bin\Debug\LuaUnityPlugIn.dll
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\LuaUnityPlugIn\bin\Debug\LuaUnityPlugIn.pdb
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.dll
+c:\users\ce0000736\documents\visual studio 2015\Projects\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.pdb
+C:\Users\Fear\Documents\mylife\LuaUnity\LuaUnityPlugIn\bin\Debug\LuaUnityPlugIn.dll
+C:\Users\Fear\Documents\mylife\LuaUnity\LuaUnityPlugIn\bin\Debug\LuaUnityPlugIn.pdb
+C:\Users\Fear\Documents\mylife\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.csprojResolveAssemblyReference.cache
+C:\Users\Fear\Documents\mylife\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.dll
+C:\Users\Fear\Documents\mylife\LuaUnity\LuaUnityPlugIn\obj\Debug\LuaUnityPlugIn.pdb

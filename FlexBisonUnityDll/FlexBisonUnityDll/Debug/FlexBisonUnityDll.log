@@ -1,0 +1,3 @@
+﻿  Process "calc.y" bison file
+  Process "calc.l" flex file
+  FlexBisonUnityDll.vcxproj -> c:\users\jmpp9\Source\Repos\FlexBisonUnityDll\Debug\FlexBisonUnityDll.dll

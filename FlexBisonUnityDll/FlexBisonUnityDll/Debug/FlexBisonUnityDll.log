@@ -1,3 +1,30 @@
-﻿  Process "calc.y" bison file
-  Process "calc.l" flex file
-  FlexBisonUnityDll.vcxproj -> c:\users\jmpp9\Source\Repos\FlexBisonUnityDll\Debug\FlexBisonUnityDll.dll
+﻿  FlexBisonUnityDll.cpp
+c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(347): warning C4005: 'yywrap': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(88): note: see previous definition of 'yywrap'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(48): warning C4005: 'INT8_MIN': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(154): note: see previous definition of 'INT8_MIN'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(49): warning C4005: 'INT16_MIN': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(157): note: see previous definition of 'INT16_MIN'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(50): warning C4005: 'INT32_MIN': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(160): note: see previous definition of 'INT32_MIN'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(52): warning C4005: 'INT8_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(163): note: see previous definition of 'INT8_MAX'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(53): warning C4005: 'INT16_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(166): note: see previous definition of 'INT16_MAX'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(54): warning C4005: 'INT32_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(169): note: see previous definition of 'INT32_MAX'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(56): warning C4005: 'UINT8_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(172): note: see previous definition of 'UINT8_MAX'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(57): warning C4005: 'UINT16_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(175): note: see previous definition of 'UINT16_MAX'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\stdint.h(58): warning C4005: 'UINT32_MAX': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(178): note: see previous definition of 'UINT32_MAX'
+c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\flexbisonunitydll.cpp(67): warning C4101: 'a': unreferenced local variable
+  Generating Code...
+  Compiling...
+  calc.tab.cpp
+c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(347): warning C4005: 'yywrap': macro redefinition
+  c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.flex.h(88): note: see previous definition of 'yywrap'
+c:\users\komo97\documents\visual studio 2017\projects\flexbisonunitydll\flexbisonunitydll\calc.tab.cpp(1079): warning C4065: switch statement contains 'default' but no 'case' labels
+  Generating Code...
+  FlexBisonUnityDll.vcxproj -> C:\Users\komo97\Documents\Visual Studio 2017\Projects\FlexBisonUnityDll\Debug\FlexBisonUnityDll.dll

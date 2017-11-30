@@ -156,6 +156,8 @@
     </Flex>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="calc.flex.cpp" />
+    <ClCompile Include="calc.tab.cpp" />
     <ClCompile Include="FlexBisonUnityDll.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -163,6 +165,11 @@
   </ItemGroup>
   <ItemGroup>
     <Bison Include="calc.y" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calc.flex.h" />
+    <ClInclude Include="calc.tab.h" />
+    <ClInclude Include="FlexBisonUnityDll.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

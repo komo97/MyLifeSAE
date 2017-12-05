@@ -7,7 +7,7 @@
 #include <string>
 #include <iostream>
 
-extern "C++"
+extern "C"
 {
 
 	typedef struct String
@@ -56,7 +56,7 @@ extern "C++"
 	 * \param [in]	len		El tamaño del string.
 	 *
 	 **************************************************************************************************/
-	_declspec(dllexport) void __cdecl PushBisonString(char* str, const size_t& len);
+	_declspec(dllexport) void __cdecl PushBisonString(char* str, size_t len);
 	/**********************************************************************************************//**
 	 * \fn	_declspec(dllexport) void __cdecl StartBison();
 	 *
@@ -73,4 +73,16 @@ extern "C++"
 	 *
 	 **************************************************************************************************/
 	_declspec(dllexport) void __cdecl TerminateBison();
+
+	/**********************************************************************************************//**
+	 * \fn	_declspec(dllexport) void __cdecl TerminateBison();
+	 *
+	 * \brief	En vista de que unity es una mamada, solo es necesario llamar esta funcion para evitar el
+	 *			debraye de threading. Inmediatamente abre bison, le pasa el string, lo parsea y lo regresa.
+	 *
+	 * \return	Puede regresar un BisonString vacio si el resultado del parsing fallo, de otra forma
+	 *			regresa el resultado esperado.
+	 *
+	 **************************************************************************************************/
+	_declspec(dllexport) BisonString __cdecl BisonAllExecution(char* str, size_t len);
 };

@@ -1,0 +1,33 @@
+﻿  FlexBisonUnityDll.cpp
+c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(347): warning C4005: 'yywrap': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(88): note: see previous definition of 'yywrap'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(48): warning C4005: 'INT8_MIN': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(154): note: see previous definition of 'INT8_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(49): warning C4005: 'INT16_MIN': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(157): note: see previous definition of 'INT16_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(50): warning C4005: 'INT32_MIN': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(160): note: see previous definition of 'INT32_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(52): warning C4005: 'INT8_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(163): note: see previous definition of 'INT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(53): warning C4005: 'INT16_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(166): note: see previous definition of 'INT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(54): warning C4005: 'INT32_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(169): note: see previous definition of 'INT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(56): warning C4005: 'UINT8_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(172): note: see previous definition of 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(57): warning C4005: 'UINT16_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(175): note: see previous definition of 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(58): warning C4005: 'UINT32_MAX': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(178): note: see previous definition of 'UINT32_MAX'
+FlexBisonUnityDll.cpp(67): warning C4101: 'a': unreferenced local variable
+  calc.tab.cpp
+c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(347): warning C4005: 'yywrap': macro redefinition
+  c:\users\jmpp9\desktop\mylifesae-flexbison\flexbisonunitydll\flexbisonunitydll\calc.flex.h(88): note: see previous definition of 'yywrap'
+calc.tab.cpp(1079): warning C4065: switch statement contains 'default' but no 'case' labels
+     Creating library C:\Users\jmpp9\Desktop\MyLifeSAE-FlexBison\FlexBisonUnityDll\Release\FlexBisonUnityDll.lib and object C:\Users\jmpp9\Desktop\MyLifeSAE-FlexBison\FlexBisonUnityDll\Release\FlexBisonUnityDll.exp
+  Generating code
+  100 of 1161 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FlexBisonUnityDll.vcxproj -> C:\Users\jmpp9\Desktop\MyLifeSAE-FlexBison\FlexBisonUnityDll\Release\FlexBisonUnityDll.dll
